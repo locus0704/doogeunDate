@@ -1,0 +1,34 @@
+.container{
+    margin: 0 auto;
+}
+
+.header{
+    padding: 50px 0;
+    background-color: pink;
+}
+#maincontent{
+	display: flex;
+}
+#divbt{
+	display: flex;
+}
+.footer{
+    padding: 50px 0;
+    background-color: pink;
+}
+
+.footer p{
+    text-align: center;
+    margin: 0 auto;
+}
+
+.category{
+    float: left;
+    width: 45%;
+    height: 80%;
+    background-color: mistyrose;
+}
+
+.category ul li{
+   margin: 20px; 
+}
